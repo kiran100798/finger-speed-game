@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Finger Speed Game</string>
+    <string name="timer_text">Timer</string>
+    <string name="remaining_taps_text">1000</string>
+    <string name="tap_button_text">Tap Tap !</string>
+
+</resources>
